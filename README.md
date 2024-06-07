@@ -1,4 +1,4 @@
-print('Hello world');
+printf('oii mundo :3');
 
 <!---
 edwardcodebr/edwardcodebr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
