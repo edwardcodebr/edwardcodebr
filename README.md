@@ -8,11 +8,11 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando em [Nome do Projeto](link-do-projeto)
+- 🔭 Atualmente trabalhando em freelancer Full Stack.
 - 🌱 Aprendendo sobre **Desenvolvimento Full Stack**
 - 👯 Procurando colaborar em projetos Open Source
 - 💬 Pergunte-me sobre **Python, JavaScript, C++**
-- 📫 Como me encontrar: [edwardcodebr@gmail.com](mailto:edwardcodebr@gmail.com)
+- 📫 Como me encontrar: [dudu.coari@gmail.com](mailto:dudu.coari@gmail.com)
 - ⚡ Curiosidade: Amo tocar violão e viajar
 
 ## ⚡ Status e Estatísticas
@@ -50,9 +50,10 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 ## 📫 Contatos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:edwardcodebr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-corrêa-queiroz/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dudu.coari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/edwardcodebr"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/edwardcodebr/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
