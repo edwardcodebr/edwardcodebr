@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a developer passionate about technology and lo
 - 👯 Looking to collaborate on Open Source projects
 - 💬 Ask me about **Python, JavaScript, C++**
 - 📫 How to reach me: [dudu.coari@gmail.com](mailto:dudu.coari@gmail.com)
-- ⚡ Fun fact: I love playing guitar and traveling
+- ⚡ Fun fact: I love playing Video Games, reading books and Cafe, much cafe.
 
 ## ⚡ GitHub Stats
 
