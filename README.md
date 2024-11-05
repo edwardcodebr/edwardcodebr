@@ -19,19 +19,9 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 
 ## ⚡ GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000)
 
 ## 🛠️ Languages and Tools
-
-- **Python**: B
-- **C**: B
-- **Java**: B
-- **HTML5**: B
-- **CSS3**: B
-- **Git**: B
-- **GameMaker**: B
-- **Linux**: B
-- **VS Code**: B
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -46,18 +36,18 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardcodebr&show_icons=true&locale=en&layout=compact&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardcodebr&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardcodebr&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardcodebr&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="GitHub Streak" />
 </p>
 
 ## ✨ Featured Repositories
 
 <p align="center">
   <a href="https://github.com/edwardcodebr/Projeto-STEM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=Projeto-STEM&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=Projeto-STEM&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" />
   </a>
   <a href="https://github.com/edwardcodebr/-companies">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=-companies&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=-companies&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" />
   </a>
 </p>
 
@@ -73,4 +63,3 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
-
