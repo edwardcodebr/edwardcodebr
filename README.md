@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000)
 
+**GitHub Score: B**  <!-- Nota personalizada "B" -->
+
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
