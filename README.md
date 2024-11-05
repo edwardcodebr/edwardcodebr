@@ -23,6 +23,16 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 
 ## 🛠️ Languages and Tools
 
+- **Python**: B
+- **C**: B
+- **Java**: B
+- **HTML5**: B
+- **CSS3**: B
+- **Git**: B
+- **GameMaker**: B
+- **Linux**: B
+- **VS Code**: B
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -63,3 +73,4 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
+
