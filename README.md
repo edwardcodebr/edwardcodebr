@@ -12,12 +12,14 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 - 🌱 Learning about **Full Stack Development**
 - 👯 Looking to collaborate on **Game Development**, **Backend Projects**, and **Open Source Projects**
 - 💬 Ask me about **Python, C, Java, HTML/CSS, Git, GameMaker**
+- 🐧 Linux enthusiast and user
+- ⚙️ Specializing in **Backend Development**, **Game Development**, and **Linux Systems**
 - 📫 How to reach me: [dudu.coari@gmail.com](mailto:dudu.coari@gmail.com)
 - ⚡ Fun fact: I'm a fan of Video Games, books, and strong coffee ☕
 
 ## ⚡ GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
 
 ## 🛠️ Languages and Tools
 
@@ -29,22 +31,23 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/-GameMaker-5D9F0E?style=flat&logo=gamemaker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardcodebr&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardcodebr&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardcodebr&show_icons=true&locale=en&layout=compact&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardcodebr&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="GitHub Streak" />
 </p>
 
 ## ✨ Featured Repositories
 
 <p align="center">
   <a href="https://github.com/edwardcodebr/Projeto-STEM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=Projeto-STEM&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=Projeto-STEM&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
   </a>
   <a href="https://github.com/edwardcodebr/-companies">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=-companies&theme=dark&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=-companies&theme=blue&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
   </a>
 </p>
 
@@ -59,4 +62,10 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</p>
+
+## 🧩 Autismo
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Autism_Spectrum_Disorder_Puzzle_Piece.svg/1200px-Autism_Spectrum_Disorder_Puzzle_Piece.svg.png" width="200" />
 </p>
