@@ -63,9 +63,3 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, alway
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
-
-## 🧩 Autismo
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Autism_Spectrum_Disorder_Puzzle_Piece.svg/1200px-Autism_Spectrum_Disorder_Puzzle_Piece.svg.png" width="200" />
-</p>
