@@ -1,59 +1,66 @@
-# Hello, I'm Eduardo! 👋
+# Olá, eu sou o Eduardo! 👋
 
-Welcome to my GitHub profile! I'm a developer passionate about technology, always working on exciting and challenging projects.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre envolvido em projetos empolgantes e desafiadores.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=edwardcodebr.edwardcodebr)
-![GitHub followers](https://img.shields.io/github/followers/edwardcodebr?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/edwardcodebr?style=social)
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=edwardcodebr.edwardcodebr)
+![Seguidores no GitHub](https://img.shields.io/github/followers/edwardcodebr?label=Follow&style=social)
+![Estrelas no GitHub](https://img.shields.io/github/stars/edwardcodebr?style=social)
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-- 🔭 Currently working on [Physics with Python](https://github.com/edwardcodebr/Projeto-STEM)
-- 🌱 Learning about **Full Stack Development**
-- 👯 Looking to collaborate on **Game Development**, **Backend Projects**, and **Open Source Projects**
-- 💬 Ask me about **Python, C, Java, HTML/CSS, Git, GameMaker**
-- 🐧 Linux enthusiast and user
-- ⚙️ Specializing in **Backend Development**, **Game Development**, and **Linux Systems**
-- 📫 How to reach me: [dudu.coari@gmail.com](mailto:dudu.coari@gmail.com)
-- ⚡ Fun fact: I'm a fan of Video Games, books, and strong coffee ☕
+- 🔭 Atualmente trabalhando em:
+  - [paic_box](https://github.com/edwardcodebr/paic_box)
+  - [Projeto STEM - Física com Python](https://github.com/edwardcodebr/Projeto-STEM)
+  - [companies](https://github.com/edwardcodebr/-companies)
+- 🌱 Aprendendo sobre **Desenvolvimento Full Stack**
+- 👨‍🏫 Fui monitor da disciplina **Linguagem de Programação 2**
+- 👯 Buscando colaborar em **Desenvolvimento de Jogos**, **Projetos Backend** e **Projetos Open Source**
+- 💬 Pergunte-me sobre **Python, C, Java, HTML/CSS, Git, GameMaker**
+- 🐧 Entusiasta e usuário de Linux
+- ⚙️ Especializado em **Desenvolvimento Backend**, **Desenvolvimento de Jogos** e **Sistemas Linux**
+- 📫 Como me encontrar: [dudu.coari@gmail.com](mailto:dudu.coari@gmail.com)
+- ☕ Curiosidade: Sou fã de videogames, livros e café forte
 
-## ⚡ GitHub Stats
+## ⚡ Estatísticas do GitHub
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000)
+![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=000000)
 
-**GitHub Score: B**  <!-- Nota personalizada "B" -->
+**Pontuação no GitHub: B**
 
-## 🛠️ Languages and Tools
+## 🛠️ Linguagens e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GameMaker](https://img.shields.io/badge/-GameMaker-5D9F0E?style=flat&logo=gamemaker&logoColor=white)
+![GameMaker](https://img.shields.io/badge/-GameMaker-0B3D91?style=flat&logo=gamemaker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat&logo=linux&logoColor=white)
 
-## 📈 GitHub Statistics
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardcodebr&show_icons=true&locale=en&layout=compact&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardcodebr&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardcodebr&show_icons=true&locale=pt-br&layout=compact&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=000000" alt="Linguagens Mais Usadas" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardcodebr&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=000000" alt="Contribuições Contínuas" />
 </p>
 
-## ✨ Featured Repositories
+## ✨ Repositórios em Destaque
 
 <p align="center">
   <a href="https://github.com/edwardcodebr/Projeto-STEM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=Projeto-STEM&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=Projeto-STEM&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=000000" />
   </a>
   <a href="https://github.com/edwardcodebr/-companies">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=-companies&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=-companies&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=000000" />
+  </a>
+  <a href="https://github.com/edwardcodebr/paic_box">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwardcodebr&repo=paic_box&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=000000" />
   </a>
 </p>
 
-## 📫 Contacts
+## 📫 Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-corrêa-queiroz/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
