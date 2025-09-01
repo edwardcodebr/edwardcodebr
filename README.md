@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## ⚡ Estatísticas do GitHub
 
-![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=edwardcodebr&show_icons=true&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=000000)
+![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=edwardcodebr&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 
 **Pontuação no GitHub: B**
 
